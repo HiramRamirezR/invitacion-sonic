@@ -1,4 +1,4 @@
-.on {
+/* .on {
   background-image: url("images/on.png");
   position: absolute;
   left: 184px;
@@ -214,7 +214,7 @@ td {
   text-align: center;
 }
 
-/* Animación */
+
 .logo {
   animation: logo 2s ease 0s infinite normal forwards;
 }
@@ -277,4 +277,15 @@ td {
 75% {
   transform: translateX(-6px) rotate(-1.2deg);
 }
+}
+ */
+
+ .full {
+  background-image: url("images/full.png");
+  position: absolute;
+  left: -5px;
+  top: 0px;
+  width: 712px;
+  height: 876px;
+  z-index: 55;
 }
